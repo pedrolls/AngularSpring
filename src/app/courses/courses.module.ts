@@ -11,7 +11,7 @@ import { CourseComponent } from './course/course.component';
   ],
   imports: [
     CommonModule,
-    CoursesRoutingModule
+    CoursesRoutingModule,
   ]
 })
 export class CoursesModule { }
